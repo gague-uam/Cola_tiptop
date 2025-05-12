@@ -1,4 +1,5 @@
 from controllers.fila_clientes import Clientes
+from models.audio import transcribe_audio
 
 def mostrar_menu():
     print("\n-- Pollo Tip-Top Metrocentro --")
